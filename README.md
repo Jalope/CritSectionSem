@@ -1,0 +1,2 @@
+# CritSectionSem
+Practica de semaforos 
